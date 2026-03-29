@@ -1,0 +1,2 @@
+STOCK_NAME = "AAPL"
+DATA_PATH = "data"
